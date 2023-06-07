@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179309636796",
+    "project_id": "edcan-6fdf1",
+    "storage_bucket": "edcan-6fdf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179309636796:android:19f5c5de1465d0e1aff4b9",
+        "android_client_info": {
+          "package_name": "com.example.edcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179309636796-e39q2aarnl190utkls44taulbbc9ieia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOy620PdcdRIqkhj-sHuK38YmDqi5rWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179309636796-e39q2aarnl190utkls44taulbbc9ieia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
